@@ -1,13 +1,7 @@
 ### Hi people 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...Android Application Development
-- 🌱 I’m currently learning ...Flutter, Dart Programming
-- 👯 I’m looking to collaborate on ...Mobile Application Development
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... prudhvikatlaparthi@gmail.com  
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on - Android Application Development
+- 🌱 I’m currently learning - Flutter, Dart Programming
+- 👯 I’m looking to collaborate on - Mobile Application Development
+- 📫 How to reach me - prudhvikatlaparthi586@gmail.com  
+- ⚡ Fun fact - A Smile makes all Simple
